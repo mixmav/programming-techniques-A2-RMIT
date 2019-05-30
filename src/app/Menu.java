@@ -288,7 +288,7 @@ public class Menu
 	{
 		System.out.printf("\n********** MiRide System Menu **********\n\n");
 
-		System.out.printf("%-30s %s\n", "Create Car", "CC");
+		System.out.printf("%-30s %s\n", "Create Car", "CCA");
 		System.out.printf("%-30s %s\n", "Book Car", "BC");
 		System.out.printf("%-30s %s\n", "Complete Booking", "CB");
 		System.out.printf("%-30s %s\n", "Display ALL Cars", "DA");
